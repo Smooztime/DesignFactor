@@ -5,6 +5,13 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/c.rojjanasup118/Documents/Game1202_Lecture/DesignFactor/Content/Blueprints/Characters/Guard/BP_Guard.uasset",
+				"C:/Users/c.rojjanasup118/Documents/Game1202_Lecture/DesignFactor/Content/Blueprints/Input/Default/IMC_Character.uasset",
+				"C:/Users/c.rojjanasup118/Documents/Game1202_Lecture/DesignFactor/Content/Blueprints/UI/UI_Stamina.uasset",
+				"C:/Users/c.rojjanasup118/Documents/Game1202_Lecture/DesignFactor/Content/Blueprints/Characters/BP_BaseCharacter.uasset",
+				"C:/Users/c.rojjanasup118/Documents/Game1202_Lecture/DesignFactor/Content/Scripts/E_CharacterState.uasset",
+				"C:/Users/c.rojjanasup118/Documents/Game1202_Lecture/DesignFactor/Content/Blueprints/Characters/Guard/ABP_Guard.uasset",
+				"C:/Users/c.rojjanasup118/Documents/Game1202_Lecture/DesignFactor/Content/Blueprints/Input/Default/IA_Sprint.uasset",
 				"D:/BVC/Term_2/Game1102/Assignments/Assignment_1/Assignment_1/Content/StarterContent/Architecture/Floor_400x400.uasset",
 				"D:/BVC/Term_2/Game1102/Assignments/Assignment_1/Assignment_1/Content/Level/Gym/Blocking_Gym.umap",
 				"D:/BVC/Term_2/Game1102/Assignments/Assignment_1/Assignment_1/Content/_GENERATED/chroz/Boolean_218F2D31.uasset",
