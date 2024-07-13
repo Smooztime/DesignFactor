@@ -5,6 +5,14 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/c.rojjanasup118/Documents/Game1202_Lecture/DesignFactor/Content/Blueprints/Characters/Guard/BP_Guard.uasset",
+				"C:/Users/c.rojjanasup118/Documents/Game1202_Lecture/DesignFactor/Content/Blueprints/Input/Default/IMC_Character.uasset",
+				"C:/Users/c.rojjanasup118/Documents/Game1202_Lecture/DesignFactor/Content/Blueprints/UI/UI_Stamina.uasset",
+				"C:/Users/c.rojjanasup118/Documents/Game1202_Lecture/DesignFactor/Content/Blueprints/Characters/BP_BaseCharacter.uasset",
+				"C:/Users/c.rojjanasup118/Documents/Game1202_Lecture/DesignFactor/Content/Scripts/E_CharacterState.uasset",
+				"C:/Users/c.rojjanasup118/Documents/Game1202_Lecture/DesignFactor/Content/Blueprints/Characters/Guard/ABP_Guard.uasset",
+				"C:/Users/c.rojjanasup118/Documents/Game1202_Lecture/DesignFactor/Content/Blueprints/Input/Default/IA_Sprint.uasset",
+				"C:/Users/c.rojjanasup118/Documents/Game1202_Lecture/DesignFactor/Content/Level_Gym/Puzzle_Gym/Introduce_Puzzle_Gym.umap",
 				"D:/BVC/Term_2/Game1102/Assignments/Assignment_1/Assignment_1/Content/StarterContent/Architecture/Floor_400x400.uasset",
 				"D:/BVC/Term_2/Game1102/Assignments/Assignment_1/Assignment_1/Content/Level/Gym/Blocking_Gym.umap",
 				"D:/BVC/Term_2/Game1102/Assignments/Assignment_1/Assignment_1/Content/_GENERATED/chroz/Boolean_218F2D31.uasset",
@@ -647,13 +655,6 @@
 				"D:/BVC/Term_2/Game1102/Assignments/Assignment_1/DesignFactor/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/LC/JGRB7HTGQS5UTREH3QXITT.uasset",
 				"D:/BVC/Term_2/Game1102/Assignments/Assignment_1/DesignFactor/Content/Blueprints/Puzzle/PaintBucket/BP_BluePaintBucket_Child.uasset",
 				"D:/BVC/Term_2/Game1102/Assignments/Assignment_1/DesignFactor/Content/Blueprints/Puzzle/Materials/M_Active.uasset",
-				"C:/Users/c.rojjanasup118/Documents/Game1202_Lecture/DesignFactor/Content/Blueprints/Characters/Guard/BP_Guard.uasset",
-				"C:/Users/c.rojjanasup118/Documents/Game1202_Lecture/DesignFactor/Content/Blueprints/Input/Default/IMC_Character.uasset",
-				"C:/Users/c.rojjanasup118/Documents/Game1202_Lecture/DesignFactor/Content/Blueprints/UI/UI_Stamina.uasset",
-				"C:/Users/c.rojjanasup118/Documents/Game1202_Lecture/DesignFactor/Content/Blueprints/Characters/BP_BaseCharacter.uasset",
-				"C:/Users/c.rojjanasup118/Documents/Game1202_Lecture/DesignFactor/Content/Scripts/E_CharacterState.uasset",
-				"C:/Users/c.rojjanasup118/Documents/Game1202_Lecture/DesignFactor/Content/Blueprints/Characters/Guard/ABP_Guard.uasset",
-				"C:/Users/c.rojjanasup118/Documents/Game1202_Lecture/DesignFactor/Content/Blueprints/Input/Default/IA_Sprint.uasset",
 				"D:/BVC/Term_2/Game1102/Assignments/Assignment_1/Assignment_1/Content/Assets/Characters/Guard/Animations/Guard_Jump.uasset",
 				"D:/BVC/Term_2/Game1102/Assignments/Assignment_1/Assignment_1/Content/Assets/Characters/Guard/Animations/AM_Jump.uasset"
 			]
